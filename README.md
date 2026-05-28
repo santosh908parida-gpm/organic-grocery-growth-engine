@@ -75,5 +75,4 @@ The strategy should focus on converting loyal organic buyers into high-value org
 - Product/category opportunity analysis
 - Growth experiment roadmap
 - Final business report
-- Portfolio-ready visuals
 
